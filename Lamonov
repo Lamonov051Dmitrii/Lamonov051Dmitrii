@@ -1,0 +1,4 @@
+def display_info(name, age):
+    print("Name:", name, "\t", "Age:", age)
+	
+display_info("Tom", 22)
